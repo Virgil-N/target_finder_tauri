@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">"target_finder_tauri"</string>
+    <string name="main_activity_title">"target_finder_tauri"</string>
+</resources>
